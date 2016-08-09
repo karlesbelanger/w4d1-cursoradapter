@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">SimpleCursorAdapter</string>
+    <string name="fill_database">Fill Database</string>
+    <string name="log_information">Log Information</string>
+    <string name="fill_listview">Fill ListView</string>
+    <string name="clear_db">Clear Database</string>
 </resources>
